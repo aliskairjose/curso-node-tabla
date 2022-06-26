@@ -1,0 +1,7 @@
+# Modulos de node
+node_modules/
+
+# Archivos generados
+files/*.txt
+
+# 
